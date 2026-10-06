@@ -1,0 +1,54 @@
+{
+  "users": {
+    "test_user": {
+      "userId": "test_user",
+      "profile": {
+        "targetJob": "",
+        "prepDuration": "",
+        "currentMood": ""
+      },
+      "messages": [],
+      "achievements": [
+        {
+          "id": "test-1",
+          "text": "자소서 1개 완성",
+          "date": "오늘",
+          "tag": "서류작성"
+        },
+        {
+          "id": "init-1",
+          "text": "취업 사이트 공고 2개 꼼꼼히 확인하고 스크랩함",
+          "date": "오늘",
+          "tag": "정보탐색"
+        },
+        {
+          "id": "init-2",
+          "text": "햇볕 쬐며 동네 산책 15분 하고 맑은 공기 마심",
+          "date": "오늘",
+          "tag": "리프레시"
+        },
+        {
+          "id": "init-3",
+          "text": "힘든 와중에도 따뜻한 물 챙겨 마시고 나 자신 돌봄",
+          "date": "오늘",
+          "tag": "자기돌봄"
+        }
+      ],
+      "savedCards": [
+        {
+          "id": "card-init-1",
+          "title": "서류 탈락 극복 처방전",
+          "message": "이번 결과가 당신의 가치를 증명하는 것은 아닙니다. 다음 기회는 반드시 찾아올 거예요!",
+          "smallAction": "따뜻한 차 한 잔 마시며 창밖 하늘 2분 바라보기",
+          "cheeringWord": "너의 계절은 반드시 온다",
+          "savedAt": "기본 보관"
+        }
+      ],
+      "updatedAt": 1791302497777
+    }
+  },
+  "meta": {
+    "version": 1,
+    "lastSaved": 1791302497777
+  }
+}

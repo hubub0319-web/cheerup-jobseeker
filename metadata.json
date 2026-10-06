@@ -1,0 +1,6 @@
+{
+  "name": "토닥토닥 취준톡 (CheerUp JobSeeker)",
+  "description": "취업 준비로 지치고 불안한 취준생들을 위한 따뜻한 공감과 현실적인 위로, 맞춤형 멘토링 챗봇",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
